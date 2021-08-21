@@ -1,0 +1,1 @@
+document.body.innerHTML = '<p>its a gitaa show</p>'
